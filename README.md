@@ -1,8 +1,6 @@
-# Advanced-House-Price-Prediction
+# Game Price Prediction
 
-A kaggle competition to practice regression techniques on a dataset that contains 80+ variables pertaining to features of a house.
-These variables conver almost every aspect of residential homes and this competetion challenges us to predict the 
-independent variable that is the price of the house.
+A kaggle competition and a problem under Logical Rhythm 2020, where you need to predict the prizes for games using attributes
+such as positive reviews, negative reviews, genre etc. The competition would be scored on RMSE(root mean squared error).
 
-Result: 83% accuracy using Ramdom Forest Algorithm on Kaggle
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
+https://www.kaggle.com/c/logical-rythm-2k20-game-price-prediction
